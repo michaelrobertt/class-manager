@@ -1,3 +1,9 @@
+# ClassroomManager
+
+**AcademyManager** é um sistema para gerenciamento de academias, oferecendo funcionalidades para:
+- Administradores: Cadastro de alunos, criação de treinos, e controle de assinaturas.
+- Alunos: Acesso aos treinos personalizados e status de assinatura.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
